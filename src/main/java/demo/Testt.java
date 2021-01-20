@@ -4,8 +4,6 @@ import java.util.HashMap;
 
 import org.jsoup.select.Elements;
 
-import com.google.gson.Gson;
-
 class Info extends Object {
     HashMap<String,String> track;
     String senderName, recieverName, dlvrDate, hClass, trackNo;
